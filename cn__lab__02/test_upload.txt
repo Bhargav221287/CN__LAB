@@ -1,0 +1,1 @@
+Hello FTP, this is a test upload file.

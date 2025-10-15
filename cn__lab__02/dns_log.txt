@@ -1,0 +1,16 @@
+INFO:root:A Record: 23.220.75.245
+INFO:root:A Record: 23.192.228.84
+INFO:root:A Record: 23.215.0.138
+INFO:root:A Record: 23.215.0.136
+INFO:root:A Record: 23.220.75.232
+INFO:root:A Record: 23.192.228.80
+INFO:root:MX Record: 0 .
+INFO:root:No CNAME record found for example.com
+INFO:root:A Record: 23.220.75.232
+INFO:root:A Record: 23.192.228.80
+INFO:root:A Record: 23.215.0.136
+INFO:root:A Record: 23.215.0.138
+INFO:root:A Record: 23.220.75.245
+INFO:root:A Record: 23.192.228.84
+INFO:root:MX Record: 0 .
+INFO:root:No CNAME record found for example.com
